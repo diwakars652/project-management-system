@@ -1,3 +1,5 @@
+## Deployed link:- **[Click here to run the app](https://diwa-project-management-system.netlify.app/)**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
